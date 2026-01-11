@@ -18,3 +18,4 @@ osint_data/
 *.swp
 *.swo
 *~
+node_modules/
